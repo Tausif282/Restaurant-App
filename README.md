@@ -1,5 +1,6 @@
 # Restaurant-App
-Based React native ,Axios 
+Based on
+React native ,Axios 
 
 
 
